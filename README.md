@@ -1,1 +1,1 @@
-# first-day-repo
+# happy-hour-app-placeholder
